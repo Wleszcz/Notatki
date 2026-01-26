@@ -5,6 +5,7 @@ szukamy wektora a
 
 Dwa przypadki
 ### układ określony Det(M) = 0
+szukamy 1 rozwiązania
 
 ### Układ nadokreślony 
 - zminiejszamy wartość wektora rezydualnego
@@ -38,3 +39,6 @@ Dwóch zmiennych -> Szerego iloczynów ?
 Pozwala zniwelować efekt Runge -> punkty w miejscach zerowych wielomianu, gęściej na końcach
 
 # Funkcje radialne (RBF)
+
+
+#TODO jak policzyć ze jest zle uwarunkowany problem
