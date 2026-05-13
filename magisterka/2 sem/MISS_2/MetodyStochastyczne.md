@@ -38,3 +38,19 @@ To samo możemy liczyć dla funkcji 2 zmiennych
 
 
 <b>Wszystkie metody stochastyczne będą miały podobny profil zbieżności</b>
+
+# Próbkowanie przciwstawne
+
+x = U[0, b]
+
+x'<sub>i</sub> = 1 - x<sub>i</sub>
+- idealna kowariancja
+
+próbowanie przeciwstawne jest dokładniejsze
+Dla funkcji monotonicznych jesteśmy w stanie dokładniej wyznacyć średnią
+
+- znacznie zmienijsza wariancję
+
+# Zmienne kontrolne
+
+Rozbijamy całkowaną funkcję na 2 w tym jedną prostą (z prostą do policzenia wartością całki)
